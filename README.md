@@ -21,7 +21,7 @@ You're building a full-stack e-commerce site using Django with MySQL and fronten
 
 🔧 Tech Stack
 
-Layer_____________Technology
+Layer             Technology
 
 Backend	          Django (Python)
 
@@ -34,9 +34,10 @@ Auth System	      Django Auth (built-in)
 
 🌐 Key Pages & Features
 
-Page/Feature	                              Description
+Page/Feature	                              
 
-Authentication & Authorization              Allows users to register, login, logout, and manage sessions. Admins can access the backend.
+Authentication & Authorization              
+      Allows users to register, login, logout, and manage sessions. Admins can access the backend.
 
 Homepage	                                  Displays featured products, categories, offers, and search bar.
 
