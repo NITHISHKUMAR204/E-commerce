@@ -21,7 +21,7 @@ You're building a full-stack e-commerce site using Django with MySQL and fronten
 
 🔧 Tech Stack
 
-Layer	          Technology
+Layer_____________Technology
 
 Backend	          Django (Python)
 
