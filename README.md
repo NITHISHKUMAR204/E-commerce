@@ -87,7 +87,54 @@ You're building a full-stack e-commerce site using Django with MySQL and fronten
     </tr>
   </tbody>
 </table>
+## 🆚 Comparison with Standard E-commerce Descriptions
 
+<table border="1" cellpadding="10" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Feature</th>
+      <th>Your Site (Custom Django)</th>
+      <th>Typical Shopify/WooCommerce Site</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Control & Customization</td>
+      <td>Full backend & frontend control via code</td>
+      <td>Limited without plugins</td>
+    </tr>
+    <tr>
+      <td>Authentication System</td>
+      <td>Custom via Django’s auth system</td>
+      <td>Built-in, limited customization</td>
+    </tr>
+    <tr>
+      <td>Database Flexibility</td>
+      <td>MySQL relational design for products, orders, users</td>
+      <td>Pre-built structure</td>
+    </tr>
+    <tr>
+      <td>Template Engine</td>
+      <td>Django Templates (Jinja-style)</td>
+      <td>Drag & Drop or Liquid in Shopify</td>
+    </tr>
+    <tr>
+      <td>Rating System</td>
+      <td>Custom-built model and template for product reviews</td>
+      <td>Available via plugins</td>
+    </tr>
+    <tr>
+      <td>Order Logic</td>
+      <td>Fully customizable models (Order, Cart, Variant, etc.)</td>
+      <td>Mostly plugin-based</td>
+    </tr>
+    <tr>
+      <td>Deployment</td>
+      <td>Manual via PythonAnywhere, Heroku, or custom VPS</td>
+      <td>Cloud hosted automatically</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
