@@ -87,7 +87,9 @@ You're building a full-stack e-commerce site using Django with MySQL and fronten
     </tr>
   </tbody>
 </table>
+
 ## 🆚 Comparison with Standard E-commerce Descriptions
+
 
 <table border="1" cellpadding="10" cellspacing="0">
   <thead>
