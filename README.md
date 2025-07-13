@@ -22,9 +22,13 @@ You're building a full-stack e-commerce site using Django with MySQL and fronten
 🔧 Tech Stack
 
 Layer	          Technology
+
 Backend	          Django (Python)
+
 Database	        MySQL
+
 Frontend	        HTML, CSS, Bootstrap ,React js
+
 Auth System	      Django Auth (built-in)
 
 
