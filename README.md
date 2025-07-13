@@ -36,7 +36,7 @@ Auth System	      Django Auth (built-in)
 
 Page/Feature	                              Description
 
-Authentication & Authorization	            Allows users to register, login, logout, and manage sessions. Admins can access the backend.
+Authentication & Authorization              Allows users to register, login, logout, and manage sessions. Admins can access the backend.
 
 Homepage	                                  Displays featured products, categories, offers, and search bar.
 
