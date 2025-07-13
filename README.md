@@ -32,6 +32,24 @@ Frontend	        HTML, CSS, Bootstrap ,React js
 Auth System	      Django Auth (built-in)
 
 
+🌐 Key Pages & Features
+
+Page/Feature	                              Description
+
+Authentication & Authorization	            Allows users to register, login, logout, and manage sessions. Admins can access the backend.
+
+Homepage	                                  Displays featured products, categories, offers, and search bar.
+
+Product Detail Page	                        Shows detailed info: image, title, price, ratings, size/variant, description, and add-to-cart button.
+
+Rating Page	                                Users can rate products with star ratings and optional reviews. Ratings are averaged per product.
+
+Order Page	                                Users can view current, past, and pending orders. Includes order tracking and cancel button.
+
+Header & Footer	                            Consistent across all pages; includes logo, navigation links, search, cart icon, social media links.
+
+Category Filter Page	                      Filters products based on category, subcategory, and other filters like price, brand, color.
+
 
 
 
