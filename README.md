@@ -49,7 +49,7 @@ You're building a full-stack e-commerce site using Django with MySQL and fronten
 
 ## 🌐 Key Pages & Features
 
-<table border="1" cellpadding="10" cellspacing="0">
+<table border="2" cellpadding="10" cellspacing="0">
   <thead>
     <tr>
       <th>Page/Feature</th>
@@ -91,7 +91,7 @@ You're building a full-stack e-commerce site using Django with MySQL and fronten
 ## 🆚 Comparison with Standard E-commerce Descriptions
 
 
-<table border="1" cellpadding="10" cellspacing="0">
+<table border="3" cellpadding="10" cellspacing="0">
   <thead>
     <tr>
       <th>Feature</th>
