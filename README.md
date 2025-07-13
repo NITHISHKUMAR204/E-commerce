@@ -47,37 +47,46 @@ You're building a full-stack e-commerce site using Django with MySQL and fronten
   </tbody>
 </table>
 
-<!-- Layer             Technology
+## 🌐 Key Pages & Features
 
-Backend	          Django (Python)
-
-Database	        MySQL
-
-Frontend	        HTML, CSS, Bootstrap ,React js
-
-Auth System	      Django Auth (built-in) -->
-
-
-🌐 Key Pages & Features
-
-Page/Feature	                              
-
-Authentication & Authorization              
-      Allows users to register, login, logout, and manage sessions. Admins can access the backend.
-
-Homepage	                                  Displays featured products, categories, offers, and search bar.
-
-Product Detail Page	                        Shows detailed info: image, title, price, ratings, size/variant, description, and add-to-cart button.
-
-Rating Page	                                Users can rate products with star ratings and optional reviews. Ratings are averaged per product.
-
-Order Page	                                Users can view current, past, and pending orders. Includes order tracking and cancel button.
-
-Header & Footer	                            Consistent across all pages; includes logo, navigation links, search, cart icon, social media links.
-
-Category Filter Page	                      Filters products based on category, subcategory, and other filters like price, brand, color.
-
-
+<table border="1" cellpadding="10" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Page/Feature</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Authentication & Authorization</td>
+      <td>Allows users to register, login, logout, and manage sessions. Admins can access the backend.</td>
+    </tr>
+    <tr>
+      <td>Homepage</td>
+      <td>Displays featured products, categories, offers, and search bar.</td>
+    </tr>
+    <tr>
+      <td>Product Detail Page</td>
+      <td>Shows detailed info: image, title, price, ratings, size/variant, description, and add-to-cart button.</td>
+    </tr>
+    <tr>
+      <td>Rating Page</td>
+      <td>Users can rate products with star ratings and optional reviews. Ratings are averaged per product.</td>
+    </tr>
+    <tr>
+      <td>Order Page</td>
+      <td>Users can view current, past, and pending orders. Includes order tracking and cancel button.</td>
+    </tr>
+    <tr>
+      <td>Header & Footer</td>
+      <td>Consistent across all pages; includes logo, navigation links, search, cart icon, social media links.</td>
+    </tr>
+    <tr>
+      <td>Category Filter Page</td>
+      <td>Filters products based on category, subcategory, and other filters like price, brand, color.</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
