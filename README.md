@@ -3,7 +3,7 @@ You're building a full-stack e-commerce site using Django, MySQL, HTML, CSS, and
 
 You're building a full-stack e-commerce site using Django with MySQL and frontend tech like HTML, CSS, and Bootstrap. You want to include:
 
-✅ User Authentication & Authorization
+## ✅ User Authentication & Authorization
 
 🏠 Homepage
 
@@ -19,7 +19,7 @@ You're building a full-stack e-commerce site using Django with MySQL and fronten
 
 📝 Product Descriptions
 
-🔧 Tech Stack
+## 🔧 Tech Stack
 
 Layer             Technology
 
